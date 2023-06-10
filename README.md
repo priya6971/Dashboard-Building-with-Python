@@ -7,4 +7,7 @@ pip install -r requirements.txt
 ## To view the dashboard
 streamlit run app1.py
 
+## To stop the app
+Ctrl + C
+
 
